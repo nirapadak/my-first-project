@@ -1,6 +1,6 @@
 *{
     margin: 30px;
-    padding: 20px;
+    padding: 5px;
 
 }
 button{
@@ -11,4 +11,21 @@ button{
 button:hover{
     background-color: black;
     color: white;
+}
+#bijoy{
+ color: aliceblue;
+ text-size-adjust: 20px;
+ font-size: medium;
+ 
+}
+#colOne{
+    border-radius: 20px;
+    border: 1px solid white !important;
+
+}
+
+#colTow{
+    border-radius: 20px;
+    border: 1px solid white !important;
+
 }
